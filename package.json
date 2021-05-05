@@ -1,0 +1,32 @@
+{
+  "name": "aws-s3-file-manager",
+  "version": "0.0.0",
+  "description": "File management for AWS S3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CompAndSave/aws-s3-file-manager.git"
+  },
+  "keywords": [
+    "aws s3"
+  ],
+  "author": "Andrew Y",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CompAndSave/aws-s3-file-manager/issues"
+  },
+  "homepage": "https://github.com/CompAndSave/aws-s3-file-manager#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.900.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.20.0"
+  }
+}
