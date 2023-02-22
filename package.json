@@ -23,6 +23,7 @@
     "lib": "lib"
   },
   "dependencies": {
+    "@aws-sdk/client-s3": "^3.276.0",
     "aws-sdk": "^2.1321.0"
   },
   "devDependencies": {
