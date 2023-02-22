@@ -23,7 +23,7 @@
     "lib": "lib"
   },
   "dependencies": {
-    "aws-sdk": "^2.900.0"
+    "aws-sdk": "^2.1321.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.1.0",
